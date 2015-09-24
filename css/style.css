@@ -12,17 +12,17 @@ html, body {
   height:100%;
   font-family:"Open sans", sans-serif;
   color:#fff;
-  background:#555;
+  background:#777;
 }
 
  .message {
    height:200px;
-   width:400px;
+   width:800px;
    margin:50px auto;
  }
 
 h1 {
-  font-size:40px/200px;
+  font-size:3em;
   font-weight:700;
   text-align:center;
 }
